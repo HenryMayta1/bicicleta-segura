@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697573443999",
+    "project_id": "bicicletas-seguras-9bdf1",
+    "storage_bucket": "bicicletas-seguras-9bdf1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697573443999:android:68ca4f38302c07c43915aa",
+        "android_client_info": {
+          "package_name": "com.example.bicicleta_segura"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpFACLRl87Y5mZ9y4oP-3HV0TWRrKd_jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
